@@ -107,3 +107,8 @@ print("Capitalize:", text.capitalize())
 
 # ----------------------------------------------------------
 
+# Q7: String replace methods
+#    Given: sentence = "I love Java programming"
+#     Replace "Java" with "Python"
+#     Replace all spaces with underscores
+#     Print original and both modified versions.
