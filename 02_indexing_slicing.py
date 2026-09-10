@@ -49,3 +49,9 @@ print("@ symbol at index:", email[4])
 # ==========================================================
 # PART B:   Slicing
 # ==========================================================
+
+# Q3: Basic slicing
+#   Given: text = "Hello World"
+#   Extract: "Hello", "World", "Hello World", "llo Wo"
+#   Print each with the slice notation used.
+
