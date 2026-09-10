@@ -24,3 +24,10 @@ print("Split list:", split_list)
 print("Joined:", ' - ' .join(split_list))
 
 # ----------------------------------------------------------
+
+# Q2: String method chaining
+#    Given: messy_text = "   HELLO world   "
+#    Chain methods to: strip spaces, convert to title case, 
+#    replace 'o' with 'O'
+#    Do it in one line
+#    Print original and result.
