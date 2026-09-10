@@ -53,3 +53,11 @@ print("Hello\nWorld")
 print("Name:\tRobert")
 print("C:\\Users\\Desktop")
 print('She said "Hello"')
+
+# ----------------------------------------------------------
+
+# Q4: Multi-line string with escape sequences
+#    Create a formatted receipt using escape sequences:
+#    Use \n for new lines, \t for tabs
+#    Include: Store name, items with prices, total.
+
