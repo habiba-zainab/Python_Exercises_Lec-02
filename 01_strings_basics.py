@@ -82,3 +82,9 @@ print("================================")
 #    Also create a regex pattern using raw string: 
 #    r"\d{3}-\d{3}-\d{4}"
 #    Print all three.
+
+print("With escapes: C:\\Users\\Desktop\\file.txt")
+print("Raw string:", r'C:\Users\Desktop\file.txt')
+print("Regex pattern:", r'\d{3}-\d{3}-\d{4}')
+
+# ----------------------------------------------------------
