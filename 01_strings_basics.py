@@ -42,3 +42,9 @@ print("After chaining: '" + messy_text.strip().title().replace('o', 'O') + "'")
 # PART B:   Escape Sequences
 # ==========================================================
 
+# Q3: Escape sequences demonstration
+#    Create strings using escape sequences:
+#    - Newline: Print "Hello" and "World" on seperate lines
+#    - Tab: Print "Name:\tJohn"
+#    - Backslash: Print "C:\Users\Desktop"
+#    - Quotes: Print She said "Hello"
