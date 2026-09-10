@@ -98,3 +98,9 @@ print("Regex pattern:", r'\d{3}-\d{3}-\d{4}')
 #    Convert to: uppercase, lowercase, title case, capitalize
 #    Print each result with label.
 
+text = "python programming"
+print("Original:", text)
+print("Upper:", text.upper())
+print("Lower:", text.lower())
+print("Title:", text.title())
+print("Capitalize:", text.capitalize())
