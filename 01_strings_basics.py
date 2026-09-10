@@ -138,3 +138,4 @@ print("strip(): '" + messy.strip() + "' (Length:", len(messy.strip()), ")")
 print("lstrip(): '" + messy.lstrip() + "' (Length:", len(messy.lstrip()), ")")
 print("rstrip(): '" + messy.rstrip() + "' (Length:", len(messy.rstrip()), ")")
 
+# ----------------------------------------------------------
