@@ -61,3 +61,16 @@ print('She said "Hello"')
 #    Use \n for new lines, \t for tabs
 #    Include: Store name, items with prices, total.
 
+print("================================")
+print("\t   PYTHON STORE")
+print("================================")
+print("Item\t\t\tPrice")
+print("--------------------------------")
+print("Laptop\t\t\t$999.99")
+print("Mouse\t\t\t$25.50")
+print("Keyword\t\t\t$75.00")
+print("--------------------------------")
+print("Total:\t\t\t$1100.49")
+print("================================")
+
+# ----------------------------------------------------------
