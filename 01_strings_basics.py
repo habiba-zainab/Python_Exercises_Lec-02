@@ -31,3 +31,7 @@ print("Joined:", ' - ' .join(split_list))
 #    replace 'o' with 'O'
 #    Do it in one line
 #    Print original and result.
+
+messy_text = "   HELLO world   "
+print("Original: '" + messy_text + "'")
+print("After chaining: '" + messy_text.strip().title().replace('o', 'O') + "'")
