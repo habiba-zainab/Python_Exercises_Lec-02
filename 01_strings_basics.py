@@ -126,3 +126,7 @@ print("With underscore:", sentence.replace(' ', '_'))
 
 # ----------------------------------------------------------
 
+# Q8: String strip methods
+#   Given: messy = "   Hello Python   "
+#   Use strip(), lstrip(), rstrip() to clean it
+#   Print original length and cleaned length.
