@@ -18,8 +18,11 @@
 #    Print both results.
 
 data = "apple, banana, orange, mango"
+
 print("Original:", data)
+
 split_list = data.split(',')
+
 print("Split list:", split_list)
 print("Joined:", ' - ' .join(split_list))
 
@@ -33,6 +36,7 @@ print("Joined:", ' - ' .join(split_list))
 #    Print original and result.
 
 messy_text = "   HELLO world   "
+
 print("Original: '" + messy_text + "'")
 print("After chaining: '" + messy_text.strip().title().replace('o', 'O') + "'")
 
@@ -99,6 +103,7 @@ print("Regex pattern:", r'\d{3}-\d{3}-\d{4}')
 #    Print each result with label.
 
 text = "python programming"
+
 print("Original:", text)
 print("Upper:", text.upper())
 print("Lower:", text.lower())
@@ -112,3 +117,10 @@ print("Capitalize:", text.capitalize())
 #     Replace "Java" with "Python"
 #     Replace all spaces with underscores
 #     Print original and both modified versions.
+
+sentence = "I love Cpp programming"
+
+print("Original:", sentence)
+print("After replace:", sentence.replace('Cpp', 'Python'))
+print("With underscore:", sentence.replace(' ', '_'))
+
