@@ -74,3 +74,11 @@ print("Total:\t\t\t$1100.49")
 print("================================")
 
 # ----------------------------------------------------------
+
+# Q5: Raw strings and escape sequences
+#    Create two versions of a file path:
+#    1. Using escape sequences: C:\Users\Desktop\file.txt
+#    2. Using raw string (r"...")
+#    Also create a regex pattern using raw string: 
+#    r"\d{3}-\d{3}-\d{4}"
+#    Print all three.
