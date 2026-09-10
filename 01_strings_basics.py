@@ -1,0 +1,9 @@
+"""
+
+===========================================================
+   LECTURE 02 - SET 01 : BASICS OF STRINGS
+   Topics : String Methods & Escape Sequences
+   Total Questions :  
+============================================================
+
+"""
