@@ -35,3 +35,10 @@ print("Joined:", ' - ' .join(split_list))
 messy_text = "   HELLO world   "
 print("Original: '" + messy_text + "'")
 print("After chaining: '" + messy_text.strip().title().replace('o', 'O') + "'")
+
+# ----------------------------------------------------------
+
+# ==========================================================
+# PART B:   Escape Sequences
+# ==========================================================
+
