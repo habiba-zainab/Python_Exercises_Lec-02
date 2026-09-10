@@ -130,3 +130,11 @@ print("With underscore:", sentence.replace(' ', '_'))
 #   Given: messy = "   Hello Python   "
 #   Use strip(), lstrip(), rstrip() to clean it
 #   Print original length and cleaned length.
+
+messy = "   Hello Python   "
+
+print("Original: '", + messy +"' (Length:", len(messy), ")" )
+print("strip(): '" + messy.strip() + "' (Length:", len(messy.strip()), ")")
+print("lstrip(): '" + messy.lstrip() + "' (Length:", len(messy.lstrip()), ")")
+print("rstrip(): '" + messy.rstrip() + "' (Length:", len(messy.rstrip()), ")")
+
