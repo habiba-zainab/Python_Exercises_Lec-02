@@ -92,3 +92,9 @@ print("Regex pattern:", r'\d{3}-\d{3}-\d{4}')
 # ==========================================================
 # PART C:   String Methods
 # ==========================================================
+
+# Q6: Basic string methods - Case conversion
+#    Given: text = "python programming"
+#    Convert to: uppercase, lowercase, title case, capitalize
+#    Print each result with label.
+
