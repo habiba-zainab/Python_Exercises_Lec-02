@@ -11,3 +11,8 @@
 # PART A:   Strings
 # ==========================================================
 
+# Q1: String split and join
+#    Given: data = "apple , banana , orange , mango"
+#    Split by comma into list
+#    Join list with " - " seperator
+#    Print both results.
