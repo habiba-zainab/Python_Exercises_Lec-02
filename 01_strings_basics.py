@@ -16,3 +16,11 @@
 #    Split by comma into list
 #    Join list with " - " seperator
 #    Print both results.
+
+data = "apple, banana, orange, mango"
+print("Original:", data)
+split_list = data.split(',')
+print("Split list:", split_list)
+print("Joined:", ' - ' .join(split_list))
+
+# ----------------------------------------------------------
