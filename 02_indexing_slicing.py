@@ -27,3 +27,5 @@ print("Index 3:", word[3])
 print("Index 4:", word[4])
 print("Index 5:", word[5])
 print("First:", word[0], " , Last:", word[5])
+
+# ----------------------------------------------------------
