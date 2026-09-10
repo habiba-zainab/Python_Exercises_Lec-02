@@ -34,3 +34,12 @@ print("First:", word[0], " , Last:", word[5])
 #    Print character at index 0, 4, 5, and last character
 #    Print the '@' symbol using indexing
 
+print("\n--- Email Character Extraction ---")
+
+email = "user@example.com"
+
+print("Index 0:", email[0])
+print("Index 4:", email[4])
+print("Index 5:", email[5])
+print("Last character:", email[15])
+print("@ symbol at index:", email[4])
