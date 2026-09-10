@@ -18,3 +18,12 @@
 #   (0, 1, 2, 3, 4, 5)
 #   Print first and last character.
 
+word = "PYTHON"
+
+print("Index 0:", word[0])
+print("Index 1:", word[1])
+print("Index 2:", word[2])
+print("Index 3:", word[3])
+print("Index 4:", word[4])
+print("Index 5:", word[5])
+print("First:", word[0], " , Last:", word[5])
