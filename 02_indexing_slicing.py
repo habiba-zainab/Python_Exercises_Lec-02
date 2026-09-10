@@ -69,3 +69,9 @@ print("text[2:9] =", text[2:9])
 #   Extract every 2nd character
 #   Extract every 3rd character
 #   Extract characters in reserve.
+
+numbers = "0123456789"
+
+print("Every 2nd:", numbers[::2])
+print("Every 3rd:", numbers[::3])
+print("Reversed:", numbers[::-1])
