@@ -43,3 +43,5 @@ print("Index 4:", email[4])
 print("Index 5:", email[5])
 print("Last character:", email[15])
 print("@ symbol at index:", email[4])
+
+# ----------------------------------------------------------
