@@ -75,3 +75,5 @@ numbers = "0123456789"
 print("Every 2nd:", numbers[::2])
 print("Every 3rd:", numbers[::3])
 print("Reversed:", numbers[::-1])
+
+# ----------------------------------------------------------
