@@ -48,3 +48,8 @@ print("After chaining: '" + messy_text.strip().title().replace('o', 'O') + "'")
 #    - Tab: Print "Name:\tJohn"
 #    - Backslash: Print "C:\Users\Desktop"
 #    - Quotes: Print She said "Hello"
+
+print("Hello\nWorld")
+print("Name:\tRobert")
+print("C:\\Users\\Desktop")
+print('She said "Hello"')
