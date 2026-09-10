@@ -55,3 +55,9 @@ print("@ symbol at index:", email[4])
 #   Extract: "Hello", "World", "Hello World", "llo Wo"
 #   Print each with the slice notation used.
 
+text = "Hello World"
+
+print("text[0:5] =", text[0:5])
+print("text[6:11] =", text[6:11])
+print("text[0:11] =", text[0:11])
+print("text[2:9] =", text[2:9])
