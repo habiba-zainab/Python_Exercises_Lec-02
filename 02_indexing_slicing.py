@@ -63,3 +63,9 @@ print("text[0:11] =", text[0:11])
 print("text[2:9] =", text[2:9])
 
 # ----------------------------------------------------------
+
+# Q4: Slicing with step
+#   Given: numbers = "0123456789"
+#   Extract every 2nd character
+#   Extract every 3rd character
+#   Extract characters in reserve.
