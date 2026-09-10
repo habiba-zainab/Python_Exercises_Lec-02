@@ -29,3 +29,8 @@ print("Index 5:", word[5])
 print("First:", word[0], " , Last:", word[5])
 
 # ----------------------------------------------------------
+
+# Q2: Given: email = "user@example.com"
+#    Print character at index 0, 4, 5, and last character
+#    Print the '@' symbol using indexing
+
