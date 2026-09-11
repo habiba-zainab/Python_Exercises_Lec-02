@@ -138,3 +138,8 @@ print("word[5] == word[-1]:", word[5] == word[-1])
 #   Extract "gram" using negative indices
 #   Extract first 6 characters using mix of positive
 #     and negative
+
+sentence = "Python Programming"
+print("Last 11 chars:", sentence[-11:])
+print("Extract 'gram':", sentence[-8:-4])
+print("First 6 chars:", sentence[0:6])
