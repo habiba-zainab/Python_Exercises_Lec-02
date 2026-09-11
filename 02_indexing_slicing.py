@@ -78,20 +78,11 @@ print("Reversed:", numbers[::-1])
 
 # ----------------------------------------------------------
 
-# Q5: Omitting indices in slicing
-#   Given: text = "ABCDEFGHIJ"
-#   - From start to index 5: [:5]
-#   - From index 5 to end: [5:]
-#   - Entire string: [:]
-#   - Last 3 characters: [-3:]
-#   - All except last 3: [:-3]
-
-text = "ABCDEFGHIJ"
-print("[:5] =", text[:5])
-print("[5:] =", text[5:])
-print("[:] =", text[:])
-print("[:5] =", text[-3:])
-print("[:-3] =", text[:-3])
+# Q5: Palindrome checker using slicing
+#    Given: word1 = "radar", word2 = "python"
+#    Check if each is palindrome by comparing with reversed
+#     version
+#    Print result for both.
 
 # ----------------------------------------------------------
 
@@ -110,3 +101,4 @@ print("Reserve 'World':", text[0:6], text[6:][::-1])
 print("Swapped:", text[6:], text[0:5])
 
 # ----------------------------------------------------------
+
