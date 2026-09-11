@@ -157,3 +157,5 @@ print("Full path:", path)
 print("Filename:", path[-8:])
 print("Directory:", path[:-8])
 print("Extension:", path[-4:])
+
+# ----------------------------------------------------------
