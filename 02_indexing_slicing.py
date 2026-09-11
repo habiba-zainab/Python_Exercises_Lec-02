@@ -145,3 +145,9 @@ print("Extract 'gram':", sentence[-8:-4])
 print("First 6 chars:", sentence[0:6])
 
 # ----------------------------------------------------------
+
+# Q9. Extract parts using negative slicing
+#   Given: path = "/home/user/documents/file.txt"
+#   Extract filename ("file.txt") using negative slicing
+#   Extract directory path ("/home/user/documents/")
+#   Extract file extension (".txt")
