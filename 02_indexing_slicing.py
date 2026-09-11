@@ -101,3 +101,10 @@ print("[:-3] =", text[:-3])
 #   Reserve only "Hello" part
 #   Reserve only "World" part
 #   Swap "Hello" and "World" positions.
+
+text = "Hello World"
+print("Original:", text)
+print("Reserved:", text[::-1])
+print("Reserve 'Hello':", text[0:5][::-1], text[5:] )
+print("Reserve 'World':", text[0:6], text[6:][::-1])
+print("Swapped:", text[6:], text[0:5])
