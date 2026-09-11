@@ -84,6 +84,13 @@ print("Reversed:", numbers[::-1])
 #     version
 #    Print result for both.
 
+word1 = "radar"
+word2 = "python"
+print("'radar' reserved:", word1[::-1])
+print("Is 'radar' a palindrome?", word1 == word1[::-1])
+print("'python' reversed:", word2[::-1])
+print("Is 'python' a palindrome?", word2 == word2[::-1])
+
 # ----------------------------------------------------------
 
 # Q6: Reserve string using slicing
