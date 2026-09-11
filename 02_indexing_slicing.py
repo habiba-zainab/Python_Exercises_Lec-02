@@ -119,3 +119,13 @@ print("Swapped:", text[6:], text[0:5])
 #      (-6, -5, -4, -3, -2, -1)
 #   Verify that     word[0] == word[-6]    and 
 #     word[5] == word[-1]
+
+word = "PYTHON"
+print("Index -6:", word[-6])
+print("Index -5:", word[-5])
+print("Index -4:", word[-4])
+print("Index -3:", word[-3])
+print("Index -2:", word[-2])
+print("Index -1:", word[-1])
+print("word[0] == word[-6]:", word[0] == word[-6])
+print("word[5] == word[-1]:", word[5] == word[-1])
