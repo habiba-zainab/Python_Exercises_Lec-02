@@ -129,3 +129,5 @@ print("Index -2:", word[-2])
 print("Index -1:", word[-1])
 print("word[0] == word[-6]:", word[0] == word[-6])
 print("word[5] == word[-1]:", word[5] == word[-1])
+
+# ----------------------------------------------------------
