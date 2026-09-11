@@ -79,10 +79,10 @@ print("Reversed:", numbers[::-1])
 # ----------------------------------------------------------
 
 # Q5: Palindrome checker using slicing
-#    Given: word1 = "radar", word2 = "python"
-#    Check if each is palindrome by comparing with reversed
+#   Given: word1 = "radar", word2 = "python"
+#   Check if each is palindrome by comparing with reversed
 #     version
-#    Print result for both.
+#   Print result for both.
 
 word1 = "radar"
 word2 = "python"
@@ -112,3 +112,10 @@ print("Swapped:", text[6:], text[0:5])
 # ==========================================================
 # PART C:   Negative Indexing & Slicing
 # ==========================================================
+
+# Q7: Negative indexing
+#   Given: word = "PYTHON"
+#   Print each character using negative indexing 
+#      (-6, -5, -4, -3, -2, -1)
+#   Verify that     word[0] == word[-6]    and 
+#     word[5] == word[-1]
