@@ -143,3 +143,5 @@ sentence = "Python Programming"
 print("Last 11 chars:", sentence[-11:])
 print("Extract 'gram':", sentence[-8:-4])
 print("First 6 chars:", sentence[0:6])
+
+# ----------------------------------------------------------
