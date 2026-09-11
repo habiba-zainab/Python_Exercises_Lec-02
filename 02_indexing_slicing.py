@@ -131,3 +131,10 @@ print("word[0] == word[-6]:", word[0] == word[-6])
 print("word[5] == word[-1]:", word[5] == word[-1])
 
 # ----------------------------------------------------------
+
+# Q8: Negative slicing
+#   Given: sentence = "Python Programming"
+#   Extract last 11 characters using negative slicing
+#   Extract "gram" using negative indices
+#   Extract first 6 characters using mix of positive
+#     and negative
