@@ -108,3 +108,5 @@ print("Reserved:", text[::-1])
 print("Reserve 'Hello':", text[0:5][::-1], text[5:] )
 print("Reserve 'World':", text[0:6], text[6:][::-1])
 print("Swapped:", text[6:], text[0:5])
+
+# ----------------------------------------------------------
