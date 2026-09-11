@@ -94,3 +94,10 @@ print("[:5] =", text[-3:])
 print("[:-3] =", text[:-3])
 
 # ----------------------------------------------------------
+
+# Q6: Reserve string using slicing
+#   Given: text = "Hello World"
+#   Reserve only entire string
+#   Reserve only "Hello" part
+#   Reserve only "World" part
+#   Swap "Hello" and "World" positions.
