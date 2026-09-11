@@ -85,3 +85,10 @@ print("Reversed:", numbers[::-1])
 #   - Entire string: [:]
 #   - Last 3 characters: [-3:]
 #   - All except last 3: [:-3]
+
+text = "ABCDEFGHIJ"
+print("[:5] =", text[:5])
+print("[5:] =", text[5:])
+print("[:] =", text[:])
+print("[:5] =", text[-3:])
+print("[:-3] =", text[:-3])
