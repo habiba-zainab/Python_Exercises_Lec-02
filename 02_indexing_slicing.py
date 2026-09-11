@@ -151,3 +151,9 @@ print("First 6 chars:", sentence[0:6])
 #   Extract filename ("file.txt") using negative slicing
 #   Extract directory path ("/home/user/documents/")
 #   Extract file extension (".txt")
+
+path = "/home/user/documents/file.txt"
+print("Full path:", path)
+print("Filename:", path[-8:])
+print("Directory:", path[:-8])
+print("Extension:", path[-4:])
