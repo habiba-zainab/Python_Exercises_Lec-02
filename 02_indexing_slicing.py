@@ -77,3 +77,11 @@ print("Every 3rd:", numbers[::3])
 print("Reversed:", numbers[::-1])
 
 # ----------------------------------------------------------
+
+# Q5: Omitting indices in slicing
+#   Given: text = "ABCDEFGHIJ"
+#   - From start to index 5: [:5]
+#   - From index 5 to end: [5:]
+#   - Entire string: [:]
+#   - Last 3 characters: [-3:]
+#   - All except last 3: [:-3]
