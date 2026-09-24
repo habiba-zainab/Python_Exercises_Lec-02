@@ -26,3 +26,5 @@ print("First 'Python' at: ", text.find("Python"))
 print("First 'is' at: ", text.find("is"))
 print("'Java' position: ", text.find("Java"))
 print("Second 'Python' at: ", text.find("Python", 7))
+
+# ----------------------------------------------------------
