@@ -79,3 +79,9 @@ print("'Hello World' - isdigit:", "Hello World".isdigit(), ", isalpha:", "Hello 
 # ==========================================================
 # PART C:   Formatting Functions
 # ==========================================================
+
+# Q5: Given: title = "PYTHON"
+#    Format the title (width = 20)
+#     - Centered with * padding
+#     - Left aligned ith - padding
+#     - Right aligned with = padding
