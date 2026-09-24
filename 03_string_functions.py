@@ -34,3 +34,7 @@ print("Second 'Python' at: ", text.find("Python", 7))
 #     - Position of "World"
 #     - Position of "o" (first occurence)
 
+data = "Hello World"
+print("Data: ", data)
+print("'World' index: ", data.index("World"))
+print("'o' index: ", data.index("o"))
