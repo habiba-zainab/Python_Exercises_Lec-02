@@ -80,3 +80,14 @@ else:
 #     - But if divisible by 100: No
 #     - Unless also divisible by 400: Yes
 #     Print if leap year or not
+
+year = 2024
+
+print("Year: ", year)
+
+div_by_4 = year % 4 == 0
+div_by_100 = year % 100 == 0
+div_by_400 = year % 400 == 0
+
+print("Divisible by 4:", "Yes" if div_by_4 else "No")
+print("Divisible by 100:", "Yes" if div_by_100 else "No")
