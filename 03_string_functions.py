@@ -44,3 +44,10 @@ print("'o' index: ", data.index("o"))
 # ==========================================================
 # PART B:   Counting & Validation Functions
 # ==========================================================
+
+# Q3: Given: sentence = "apple banana apple cherry pie apple"
+#    Count how many times:
+#     - "apple" appears
+#     - "banana" appears
+#     - "a" appears (character count)
+#     - " " (space) appears
