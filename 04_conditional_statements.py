@@ -111,3 +111,20 @@ else:
 #    Given: username = "admin" , password = "pass123"
 #    Check username first, then password
 #    Print appropriate messages for each case
+
+username = "admin"
+password = "pass123"
+
+if username == "admin":
+    print("Username:", username, "✓")
+    if password == "pass123":
+        print("Password:", password, "✓")
+        print("Login succesful!")
+    else:
+        print("Password:", password, "✗")
+        print("Invalid password!")
+else:
+    print("Username:", username, "✗")
+    print("Invalid username!")
+
+# ----------------------------------------------------------
