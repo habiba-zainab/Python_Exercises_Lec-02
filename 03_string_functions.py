@@ -69,3 +69,9 @@ print("Spaces count: ", sentence.count(" "))
 #     - Is it alphanumeric?
 #     - Print results for all
 
+print("'12345' - isdigit:", "12345".isdigit(), ", isalpha:", "12345".isalpha(), ", isalnum:", "12345".isalnum())
+print("'Python' - isdigit:", "Python".isdigit(), ", isalpha:", "Python".isalpha(), ", isalnum:", "Python".isalnum())
+print("'Python3' - isdigit:", "Python3".isdigit(), ", isalpha:", "Python3".isalpha(), ", isalnum:", "Python3".isalnum())
+print("'Hello World' - isdigit:", "Hello World".isdigit(), ", isalpha:", "Hello World".isalpha(), ", isalnum:", "Hello World".isalnum())
+
+# ---------------------------------------------------------------------------------------------------------------------------------------
