@@ -75,3 +75,7 @@ print("'Python3' - isdigit:", "Python3".isdigit(), ", isalpha:", "Python3".isalp
 print("'Hello World' - isdigit:", "Hello World".isdigit(), ", isalpha:", "Hello World".isalpha(), ", isalnum:", "Hello World".isalnum())
 
 # ---------------------------------------------------------------------------------------------------------------------------------------
+
+# ==========================================================
+# PART C:   Formatting Functions
+# ==========================================================
