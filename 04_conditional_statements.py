@@ -141,3 +141,22 @@ else:
 #     - If raining: "Stay inside"
 #     - Otherwise: "Wear warm clothes"
 
+temperature = 25
+is_raining = False
+
+print("Temperature:", str(temperature) + "°C")
+
+if is_raining:
+    print("Raining: Yes")
+else:
+    print("Raining: No")
+
+if temperature > 30 and not is_raining:
+    print("Suggestion: Go swimming")
+elif temperature > 20 and not is_raining:
+    print("Suggestion: Go for walk")
+elif is_raining:
+    print("Suggestion: Stay inside")
+else:
+    print("Suggestion: Wear warm clothes")
+
