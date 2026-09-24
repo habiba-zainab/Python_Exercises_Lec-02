@@ -28,3 +28,9 @@ print("'Java' position: ", text.find("Java"))
 print("Second 'Python' at: ", text.find("Python", 7))
 
 # ----------------------------------------------------------
+
+# Q2: Given: data = "Hello World"
+#    Use str.index() to find:
+#     - Position of "World"
+#     - Position of "o" (first occurence)
+
