@@ -24,3 +24,9 @@ print("Email:", email)
 parts = email.split('@')
 username = parts[0]
 domain = parts[1]
+
+# Indexing & Slicing
+print("First letter:", email[0])
+print("Last letter:", email[-1])
+print("Username:", username)
+print("Domain:", domain[:5])  # gmail
