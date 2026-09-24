@@ -60,3 +60,12 @@ print("'a' count: ", sentence.count("a"))
 print("Spaces count: ", sentence.count(" "))
 
 # ----------------------------------------------------------
+
+# Q4: Given these strings: num = "12345", word = "Python", 
+#    mixed = "Python3", space_str = "Hello World"
+#    Check each string:
+#     - Is it all digits?
+#     - Is it all alphabets?
+#     - Is it alphanumeric?
+#     - Print results for all
+
