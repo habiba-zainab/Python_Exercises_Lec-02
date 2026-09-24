@@ -91,3 +91,13 @@ div_by_400 = year % 400 == 0
 
 print("Divisible by 4:", "Yes" if div_by_4 else "No")
 print("Divisible by 100:", "Yes" if div_by_100 else "No")
+
+if div_by_400:
+    print("Result:", year, "is a leap year")
+elif div_by_100:
+    print("Result:", year, "is not a leap year")
+elif div_by_4:
+    print("Result:", year, "is a leap year")
+else:
+    print("Result:", year, "is not a leap year")
+    
