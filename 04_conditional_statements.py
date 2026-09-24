@@ -12,7 +12,7 @@
 # PART A:   Simple If-Else 
 # ==========================================================
 
-#  Q1: Simple if-else
+# Q1: Simple if-else
 #     Given: age = 18
 #     Check if person can vote (age >= 18)
 #     Print appropriate message
@@ -45,3 +45,13 @@ else:
 # ==========================================================
 # PART B:   If-Elif-Else Ladder
 # ==========================================================
+
+# Q3: if-elif-else ladder
+#    Given: score = 85
+#    Grade system:
+#     - 90-100: A
+#     - 80-89: B
+#     - 70-79: C
+#     - 60-69: D
+#     - Below 60: F
+#     Print grade
