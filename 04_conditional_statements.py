@@ -132,3 +132,12 @@ else:
 # ==========================================================
 # PART D:   Multiple Conditions (AND/OR Operations)
 # ==========================================================
+
+# Q6: Multiple conditions with and/or
+#    Given: temperature = 25, is_raining = False
+#    Suggest activity:
+#     - If temp > 30 and not raining: "Go swimming"
+#     - If temp > 20 and not raining: "Go for walk"
+#     - If raining: "Stay inside"
+#     - Otherwise: "Wear warm clothes"
+
