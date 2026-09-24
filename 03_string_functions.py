@@ -93,3 +93,10 @@ print("Left aligned: ", title.ljust(20, '-'))
 print("Right aligned: ", title.rjust(20, '='))
 
 # ----------------------------------------------------------
+
+# Q6: Given: number = "42", code = "A5" , 
+#           text = "Name:\tJessica\tAge:\t20"
+#    Use string functions:
+#     - Pad number with with zeros to width 5
+#     - Pad code with zeros to width 6
+#     - Expand tabs in text to 15 spaces
