@@ -21,6 +21,7 @@
 #       (Hint: use find with start parameter)
 
 text = "Python Programming is fun. Python is powerfull."
+
 print("Text: ", text)
 print("First 'Python' at: ", text.find("Python"))
 print("First 'is' at: ", text.find("is"))
@@ -35,6 +36,7 @@ print("Second 'Python' at: ", text.find("Python", 7))
 #     - Position of "o" (first occurence)
 
 data = "Hello World"
+
 print("Data: ", data)
 print("'World' index: ", data.index("World"))
 print("'o' index: ", data.index("o"))
@@ -53,6 +55,7 @@ print("'o' index: ", data.index("o"))
 #     - " " (space) appears
 
 sentence = "apple banana apple cherry pie apple"
+
 print("Sentence: ", sentence)
 print("'apple' count: ", sentence.count("apple"))
 print("'banana' count: ", sentence.count("banana"))
@@ -87,6 +90,7 @@ print("'Hello World' - isdigit:", "Hello World".isdigit(), ", isalpha:", "Hello 
 #     - Right aligned with = padding
 
 title = "PYTHON"
+
 print("Original: ", title)
 print("Centered: ", title.center(20, '*'))
 print("Left aligned: ", title.ljust(20, '-'))
@@ -100,3 +104,16 @@ print("Right aligned: ", title.rjust(20, '='))
 #     - Pad number with with zeros to width 5
 #     - Pad code with zeros to width 6
 #     - Expand tabs in text to 15 spaces
+
+number = "42"
+code = "A5"
+text = "Name:\tJessica\tAge:\t20"
+
+print("Original number: ", number)
+print("With zfill(5): ", number.zfill(5))
+print("Original code: ", code)
+print("With zfill(6): ", code.zfill(6))
+print("Original text: ", text)
+print("Expanded tabs: ", text.expandtabs(15))
+
+# ----------------------------------------------------------
