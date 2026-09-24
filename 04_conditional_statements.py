@@ -160,3 +160,4 @@ elif is_raining:
 else:
     print("Suggestion: Wear warm clothes")
 
+# ----------------------------------------------------------
