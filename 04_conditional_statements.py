@@ -71,4 +71,12 @@ elif score >= 60:
 else: 
     print("Grade: F")
 
-    # ----------------------------------------------------------
+# ----------------------------------------------------------
+
+# Q4: Leap year checker
+#    Given: year = 2024
+#    Rules:
+#     - Divisible by 4: Yes
+#     - But if divisible by 100: No
+#     - Unless also divisible by 400: Yes
+#     Print if leap year or not
