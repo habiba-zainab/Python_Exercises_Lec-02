@@ -27,3 +27,9 @@ else:
     print("You cannot vote yet!")
 
 # ----------------------------------------------------------
+
+# Q2: String condition - check empty
+#    Given: name = ""
+#    Check if string is empty, if yes ask for input
+#    If not empty, greet the user
+
