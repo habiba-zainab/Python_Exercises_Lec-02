@@ -11,3 +11,9 @@
 # ==========================================================
 # PART A:   Simple If-Else 
 # ==========================================================
+
+#  Q1: Simple if-else
+#     Given: age = 18
+#     Check if person can vote (age >= 18)
+#     Print appropriate message
+
