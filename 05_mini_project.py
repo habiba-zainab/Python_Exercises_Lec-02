@@ -19,3 +19,8 @@ print("\n--- Extract Email Parts ---")
 
 email = "Jessica@gmail.com"
 print("Email:", email)
+
+# String Methods: split
+parts = email.split('@')
+username = parts[0]
+domain = parts[1]
