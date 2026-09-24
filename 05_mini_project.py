@@ -17,4 +17,5 @@
 
 print("\n--- Extract Email Parts ---")
 
-
+email = "Jessica@gmail.com"
+print("Email:", email)
