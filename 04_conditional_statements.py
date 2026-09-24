@@ -17,3 +17,13 @@
 #     Check if person can vote (age >= 18)
 #     Print appropriate message
 
+age = 18
+
+print("Age: ", age)
+
+if age >= 18:
+    print("You can vote!")
+else:
+    print("You cannot vote yet!")
+
+# ----------------------------------------------------------
