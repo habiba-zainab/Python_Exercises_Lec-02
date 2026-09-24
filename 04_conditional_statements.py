@@ -100,4 +100,5 @@ elif div_by_4:
     print("Result:", year, "is a leap year")
 else:
     print("Result:", year, "is not a leap year")
-    
+
+# ----------------------------------------------------------
