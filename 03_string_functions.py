@@ -85,3 +85,11 @@ print("'Hello World' - isdigit:", "Hello World".isdigit(), ", isalpha:", "Hello 
 #     - Centered with * padding
 #     - Left aligned ith - padding
 #     - Right aligned with = padding
+
+title = "PYTHON"
+print("Original: ", title)
+print("Centered: ", title.center(20, '*'))
+print("Left aligned: ", title.ljust(20, '-'))
+print("Right aligned: ", title.rjust(20, '='))
+
+# ----------------------------------------------------------
