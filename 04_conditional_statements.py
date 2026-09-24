@@ -104,5 +104,10 @@ else:
 # ----------------------------------------------------------
 
 # ==========================================================
-# PART C:   Nested If Statements
+# PART C:   Nested If Statement
 # ==========================================================
+
+# Q5: Nested if statement - login validator
+#    Given: username = "admin" , password = "pass123"
+#    Check username first, then password
+#    Print appropriate messages for each case
