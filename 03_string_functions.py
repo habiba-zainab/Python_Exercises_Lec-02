@@ -51,3 +51,12 @@ print("'o' index: ", data.index("o"))
 #     - "banana" appears
 #     - "a" appears (character count)
 #     - " " (space) appears
+
+sentence = "apple banana apple cherry pie apple"
+print("Sentence: ", sentence)
+print("'apple' count: ", sentence.count("apple"))
+print("'banana' count: ", sentence.count("banana"))
+print("'a' count: ", sentence.count("a"))
+print("Spaces count: ", sentence.count(" "))
+
+# ----------------------------------------------------------
