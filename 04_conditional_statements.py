@@ -33,3 +33,11 @@ else:
 #    Check if string is empty, if yes ask for input
 #    If not empty, greet the user
 
+name = ""
+
+if name == "":
+    print("Name is empty! Please enter name.")
+else:
+    print("Hello, ", name + "!")
+
+# ----------------------------------------------------------    
