@@ -68,3 +68,6 @@ print("Option 2: ", option2)
 # ----------------------------------------------------------
 
 print("\n--- Password Check ---")
+
+password = "nia1jess"
+print("Password: ", password)
