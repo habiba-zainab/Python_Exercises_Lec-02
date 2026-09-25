@@ -56,3 +56,17 @@ This repository contains my practice work for Lecture 02, focusing on string ope
 | [`05_mini_project.py`](05_mini_project.py) | Email Validator | Mini Project |
 
 ---
+
+## 🎯 Learning Outcomes
+
+By completing this lecture, I have learned to:
+
+* ✅ Create and manipulate strings effectively
+* ✅ Use indexing to access individual characters
+* ✅ Apply slicing to extract substrings
+* ✅ Utilize built-in string methods for text processing
+* ✅ Implement conditional logic for decision making
+* ✅ Validate user input using string methods
+* ✅ Combine concepts into a practical application
+
+---
