@@ -76,3 +76,12 @@ print("Password: ", password)
 length = len(password)
 has_upper = any(c.isupper() for c in password)
 has_number = any(c.isdigit() for c in password)
+
+# Conditions if-elif-else
+if length >= 8 and has_upper and has_number:
+    print("Strength: Strong ✓")
+elif length >= 6:
+    print("Strength: Medium ⚠")
+else:
+    print("Strength: Weak ✗")
+
