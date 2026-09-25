@@ -46,3 +46,7 @@ if at_count == 1 and length > 5:
     print("✓ Valid Email")
 else:
     print("✗ Invalid Email")
+
+# ----------------------------------------------------------
+#    STEP 03:     Username Generator
+# ----------------------------------------------------------
