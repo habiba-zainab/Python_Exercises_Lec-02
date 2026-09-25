@@ -12,3 +12,5 @@ A personal Python learning repository documenting my progress through **Lecture 
 This repository contains my practice work for Lecture 02, focusing on string operations, text manipulation, and implementing conditional logic in Python programs.
 
 ---
+
+## 📖 Topics Covered
