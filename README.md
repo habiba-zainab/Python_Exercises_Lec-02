@@ -81,3 +81,11 @@ An interactive program that validates email addresses using string methods and c
 * Validates email format and structure
 * Checks for `@` symbol and proper domain extensions
 * Provides detailed validation feedback to the user
+
+#### 💡 Concepts Applied
+* String methods (`find()`, `lower()`, `endswith()`, etc.)
+* Conditional logic (`if-elif-else`)
+* Logical operators (`and`, `or`, `not`)
+* User input handling and validation
+
+---
