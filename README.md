@@ -57,6 +57,19 @@ This repository contains my practice work for Lecture 02, focusing on string ope
 
 ---
 
+## 📂 Repository Structure
+
+```text
+lecture-02/
+│
+├── 📝 01_strings_basics.py          # String Fundamentals & Operations
+├── 📝 02_indexing_slicing.py        # Indexing & Slicing Techniques
+├── 📝 03_string_functions.py        # String Methods & Functions
+├── 📝 04_conditional_statements.py  # If-Else & Decision Making
+└── 🚀 05_mini_project.py            # 📧 Email Validator Project
+
+---
+
 ## 🎯 Learning Outcomes
 
 By completing this lecture, I have learned to:
