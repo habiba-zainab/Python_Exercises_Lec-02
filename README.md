@@ -44,3 +44,15 @@ This repository contains my practice work for Lecture 02, focusing on string ope
 * Logical operators with conditions
 
 ---
+
+## 📂 Practiced Files
+
+| File | Concepts Practiced | Questions |
+| ---- | ------------------ | --------- |
+| [`01_strings_basics.py`](./01_strings_basics.py) | Strings, Escape Sequences & String Methods  | 08 |
+| [`02_indexing_slicing.py`](./02_indexing_slicing.py) | Indexing, Slicing, Negative Slicing | 09 |
+| [`03_string_functions.py`](./03_string_functions.py) | String Functions | 06 |
+| [`04_conditional_statements.py`](04_conditional_statements.py) | Conditional Statements(if, elif, else) | 06
+| [`05_mini_project.py`](05_mini_project.py) | Email Validator | Mini Project |
+
+---
