@@ -14,3 +14,10 @@ This repository contains my practice work for Lecture 02, focusing on string ope
 ---
 
 ## 📖 Topics Covered
+
+### ✅ String Basics
+* String creation and declaration
+* Concatenation
+* Escape sequences
+* Multi-line strings
+* String immutability
