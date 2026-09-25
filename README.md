@@ -21,3 +21,11 @@ This repository contains my practice work for Lecture 02, focusing on string ope
 * Escape sequences
 * Multi-line strings
 * String immutability
+
+### ✅ Indexing & Slicing
+* Positive indexing
+* Negative indexing
+* Slicing syntax `[start:stop:step]`
+* Negative Slicing
+* String reversal
+
