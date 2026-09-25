@@ -59,3 +59,6 @@ name_parts = username.split('.')
 # Indexing
 option1 = name_parts[0][0] + name_parts[1]  # jnia
 option2 = username.replace('.', '_')        # jessica_nia
+
+print("Option 1: ", option1)
+print("Option 2: ", option2)
