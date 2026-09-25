@@ -70,3 +70,9 @@ By completing this lecture, I have learned to:
 * ✅ Combine concepts into a practical application
 
 ---
+
+## 🚀 Mini Project
+
+### 📧 Email Validator (`05_mini_project.py`)
+
+An interactive program that validates email addresses using string methods and conditional statements.
