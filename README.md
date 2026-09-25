@@ -29,3 +29,9 @@ This repository contains my practice work for Lecture 02, focusing on string ope
 * Negative Slicing
 * String reversal
 
+### ✅ String Functions & Methods
+* **Case conversion:** `upper()`, `lower()`, `title()`, `capitalize()`
+* **Search and replace:** `find()`, `index()`, `replace()`, `count()`
+* **Validation methods:** `is_alpha()`, `isdigit()`, `isalnum()`
+* **Formatting:** `strip()`, `split()`, `join()`
+* **Checking:** `startswith()`, `endswith()`
