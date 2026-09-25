@@ -41,7 +41,7 @@ print("\n--- Check Valid ---")
 at_count = email.count('@')
 length = len(email)
 
-#  Conditions
+# Conditions
 if at_count == 1 and length > 5:
     print("✓ Valid Email")
 else:
@@ -52,3 +52,6 @@ else:
 # ----------------------------------------------------------
 
 print("\n--- Create Username ---")
+
+# String Methods
+name_parts = username.split('.')
