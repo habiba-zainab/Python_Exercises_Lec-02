@@ -35,3 +35,12 @@ This repository contains my practice work for Lecture 02, focusing on string ope
 * **Validation methods:** `is_alpha()`, `isdigit()`, `isalnum()`
 * **Formatting:** `strip()`, `split()`, `join()`
 * **Checking:** `startswith()`, `endswith()`
+
+### ✅ Conditional Statements
+* `if` statement
+* `if-else` statement
+* `if-elif-else` ladder
+* Nested conditionals
+* Logical operators with conditions
+
+---
