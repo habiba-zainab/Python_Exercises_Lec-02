@@ -67,6 +67,7 @@ lecture-02/
 ├── 📝 03_string_functions.py        # String Methods & Functions
 ├── 📝 04_conditional_statements.py  # If-Else & Decision Making
 └── 🚀 05_mini_project.py            # 📧 Email Validator Project
+```
 
 ---
 
