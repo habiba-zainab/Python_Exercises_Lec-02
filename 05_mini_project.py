@@ -17,7 +17,7 @@
 
 print("\n--- Extract Email Parts ---")
 
-email = "Jessica@gmail.com"
+email = "Jessica.nia@gmail.com"
 print("Email:", email)
 
 # String Methods: split
@@ -55,3 +55,7 @@ print("\n--- Create Username ---")
 
 # String Methods
 name_parts = username.split('.')
+
+# Indexing
+option1 = name_parts[0][0] + name_parts[1]  # jnia
+option2 = username.replace('.', '_')        # jessica_nia
