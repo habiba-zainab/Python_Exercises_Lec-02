@@ -37,3 +37,6 @@ print("Domain:", domain[:5])  # gmail
 
 print("\n--- Check Valid ---")
 
+# String Method & Function
+at_count = email.count('@')
+length = len(email)
