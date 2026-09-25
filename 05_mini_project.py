@@ -40,3 +40,9 @@ print("\n--- Check Valid ---")
 # String Method & Function
 at_count = email.count('@')
 length = len(email)
+
+#  Conditions
+if at_count == 1 and length > 5:
+    print("✓ Valid Email")
+else:
+    print("✗ Invalid Email")
