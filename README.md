@@ -76,3 +76,8 @@ By completing this lecture, I have learned to:
 ### 📧 Email Validator (`05_mini_project.py`)
 
 An interactive program that validates email addresses using string methods and conditional statements.
+
+#### ✨ Features
+* Validates email format and structure
+* Checks for `@` symbol and proper domain extensions
+* Provides detailed validation feedback to the user
