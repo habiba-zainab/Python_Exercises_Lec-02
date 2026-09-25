@@ -100,3 +100,5 @@ An interactive program that validates email addresses using string methods and c
 - [ ] **Lecture 07** — Happening soon
 - [ ] **Lecture 08** — Happening soon
 - [ ] **Lecture 09** — Happening soon
+
+---
