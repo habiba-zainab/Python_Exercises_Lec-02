@@ -62,3 +62,7 @@ option2 = username.replace('.', '_')        # jessica_nia
 
 print("Option 1: ", option1)
 print("Option 2: ", option2)
+
+# ----------------------------------------------------------
+#    STEP 04:     Password Checker
+# ----------------------------------------------------------
