@@ -86,6 +86,17 @@ An interactive program that validates email addresses using string methods and c
 * String methods (`find()`, `lower()`, `endswith()`, etc.)
 * Conditional logic (`if-elif-else`)
 * Logical operators (`and`, `or`, `not`)
-* User input handling and validation
 
 ---
+
+### Current Lecture Status
+
+- [x] **Lecture 01** — Python Fundamentals ✅ COMPLETED
+- [x] **Lecture 02** — Strings & Conditionals ✅ COMPLETED
+- [ ] **Lecture 03** — Happening soon
+- [ ] **Lecture 04** — Happening soon
+- [ ] **Lecture 05** — Happening soon
+- [ ] **Lecture 06** — Happening soon
+- [ ] **Lecture 07** — Happening soon
+- [ ] **Lecture 08** — Happening soon
+- [ ] **Lecture 09** — Happening soon
