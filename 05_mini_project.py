@@ -69,5 +69,10 @@ print("Option 2: ", option2)
 
 print("\n--- Password Check ---")
 
-password = "nia1jess"
+password = "Nia1jess"
 print("Password: ", password)
+
+# String Functions & Methods
+length = len(password)
+has_upper = any(c.isupper() for c in password)
+has_number = any(c.isdigit() for c in password)
